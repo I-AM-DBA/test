@@ -5,3 +5,4 @@ test
 [] prettier 규칙 설정하기
 [] dddd
 [] push test
+[] push test2
