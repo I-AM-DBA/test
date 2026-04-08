@@ -58,6 +58,12 @@
 
 ![브랜치 이미지](docs/git-branch-image.png)
 
+<div align="center">
+
+  <i>이미지 출처: [#](https://blog.cawcaw253.com/posts/git-workflow/)</i>
+
+</div>
+
 </aside>
 
 - 브랜치 전략 선정 이유
